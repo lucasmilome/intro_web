@@ -1,0 +1,16 @@
+body {
+    background-color: powderblue;
+}
+
+#web {
+    color: rgb(149, 17, 78);
+}
+
+h1 {
+    color: blue;
+    display: inline;
+}
+
+p {
+    color: red;
+}
